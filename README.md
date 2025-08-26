@@ -6,4 +6,6 @@ But it's still has playable parts:
 - open the play.bat file to play the game offline(it's a local 1v1 chess game)
 - open the UI.bat to preview the UI menu of the game that i've been working on(it does nothing at all, just fake settings changing and playing)
 
+(Oh by the way, sorry but i uploaded the whole thing in the form of a .rar file so it's easier for me to upload, sorry but internet situation in my location is not so good)
+
 I only upload this to show my skills and the way i write my codes, this is an old project though, so more i'll be posting online and show my improved skills. Stay tuned!
